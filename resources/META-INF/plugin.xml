@@ -1,9 +1,10 @@
 <idea-plugin>
   <id>org.pydemia.theme.cobalt9</id>
   <name>Cobalt9</name>
-  <version>1.0</version>
+  <version>1.1.2</version>
   <vendor email="pydemia@gmail.com" url="https://github.com/pydemia">Youngju Jaden Kim</vendor>
   <!-- Minimum and maximum build of IDE compatible with the plugin -->
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
   <idea-version since-build="191.0"/>
 
   <description><![CDATA[
@@ -16,9 +17,6 @@
       <em>Initial release for Cobalt9.</em>
     ]]>
   </change-notes>
-
-  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-  <idea-version since-build="173.0"/>
 
   <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
        on how to target different products -->

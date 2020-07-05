@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="cobalt9">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/cobalt9.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
