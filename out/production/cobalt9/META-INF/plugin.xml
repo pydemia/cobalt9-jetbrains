@@ -1,0 +1,34 @@
+<idea-plugin>
+  <id>org.pydemia.theme.cobalt9</id>
+  <name>Cobalt9</name>
+  <version>1.0</version>
+  <vendor email="pydemia@gmail.com" url="https://github.com/pydemia/pydemia-intellij-syntax">Pydemia</vendor>
+
+  <description><![CDATA[
+      A custom Cobalt theme Created by `pydemia`.<br>
+      <em>This is a custom-revised version, inspired by `Cobalt2`.</em>
+    ]]></description>
+
+  <change-notes><![CDATA[
+      All notable changes to the "cobalt9" extension will be documented in this file.<br>
+      <em>Initial release for Cobalt9.</em>
+    ]]>
+  </change-notes>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="f7f94334-611c-443b-9ae8-e2579ffb24dc" path="/Cobalt9.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
