@@ -7,15 +7,32 @@
         <property name="originalScheme">Cobalt9</property>
     </metaInfo>
     <colors>
+        <option name="ADDED_LINES_COLOR" value="45a5c" />
+        <option name="ANNOTATIONS_COLOR" value="95a4ab" />
         <option name="CARET_COLOR" value="ffc600" />
         <option name="CARET_ROW_COLOR" value="3b5364" />
         <option name="CONSOLE_BACKGROUND_KEY" value="72539" />
+        <option name="DOCUMENTATION_COLOR" value="92e47" />
         <option name="GUTTER_BACKGROUND" value="72539" />
-        <option name="INDENT_GUIDE" value="d3a58" />
+        <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="57375" />
+        <option name="INDENT_GUIDE" value="223e52" />
+        <option name="INFORMATION_HINT" value="114466" />
         <option name="LINE_NUMBERS_COLOR" value="ffffff" />
-        <option name="SELECTED_INDENT_GUIDE" value="d3a58" />
-        <option name="SELECTION_BACKGROUND" value="50a4" />
+        <option name="METHOD_SEPARATORS_COLOR" value="223e52" />
+        <option name="PROMOTION_PANE" value="3c6480" />
+        <option name="QUESTION_HINT" value="3c6480" />
+        <option name="RECENT_LOCATIONS_SELECTION" value="386685" />
+        <option name="RIGHT_MARGIN_COLOR" value="3c6480" />
+        <option name="SELECTED_INDENT_GUIDE" value="223e52" />
+        <option name="SELECTION_BACKGROUND" value="105685" />
+        <option name="TOOLTIP" value="e639c" />
+        <option name="VCS_ANNOTATIONS_COLOR_1" value="223f52" />
+        <option name="VCS_ANNOTATIONS_COLOR_2" value="223e52" />
+        <option name="VCS_ANNOTATIONS_COLOR_3" value="19364b" />
+        <option name="VCS_ANNOTATIONS_COLOR_4" value="283440" />
+        <option name="VCS_ANNOTATIONS_COLOR_5" value="222233" />
         <option name="WHITESPACES" value="d3a58" />
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3c6480" />
     </colors>
     <attributes>
         <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
