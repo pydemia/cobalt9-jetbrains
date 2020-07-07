@@ -9,14 +9,21 @@ A `Cobalt9` Theme for Jetbrain products.
 ![Screenshot](https://plugins.jetbrains.com/files/14645/93-page/image46.png)
 
 * Java
-![Screenshot](https://plugins.jetbrains.com/files/14645/93-page/image46.png)
+![Java](https://raw.githubusercontent.com/pydemia/cobalt9-jetbrains/master/images/intellij_sample_java.png)
 
 * Python
-![Screenshot](https://plugins.jetbrains.com/files/14645/93-page/image46.png)
+![Python](https://raw.githubusercontent.com/pydemia/cobalt9-jetbrains/master/images/intellij_sample_python.png)
 
-* 
-![Screenshot](https://plugins.jetbrains.com/files/14645/93-page/image46.png)
+* Markdown
+![Markdown](https://raw.githubusercontent.com/pydemia/cobalt9-jetbrains/master/images/intellij_sample_markdown.png)
 
-![Screenshot](https://plugins.jetbrains.com/files/14645/93-page/image46.png)
+* XML
+![XML](https://raw.githubusercontent.com/pydemia/cobalt9-jetbrains/master/images/intellij_sample_xml.png)
 
-![Screenshot](https://plugins.jetbrains.com/files/14645/93-page/image46.png)
+* JSON
+![JSON](https://raw.githubusercontent.com/pydemia/cobalt9-jetbrains/master/images/intellij_sample_json.png)
+
+* YAML
+![YAML](https://raw.githubusercontent.com/pydemia/cobalt9-jetbrains/master/images/intellij_sample_yaml.png)
+
+and more...
