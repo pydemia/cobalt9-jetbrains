@@ -1225,6 +1225,42 @@
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
+        <option name="MARKDOWN_BLOCK_QUOTE">
+            <value>
+                <option name="FOREGROUND" value="747474" />
+            </value>
+        </option>
+        <option name="MARKDOWN_CODE_FENCE">
+            <value>
+                <option name="FOREGROUND" value="adadad" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="MARKDOWN_CODE_SPAN">
+            <value>
+                <option name="FOREGROUND" value="ff9d00" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="MARKDOWN_IMAGE">
+            <value>
+                <option name="BACKGROUND" value="223f52" />
+            </value>
+        </option>
+        <option name="MARKDOWN_LINK_DESTINATION">
+            <value>
+                <option name="FOREGROUND" value="3794ff" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="MARKDOWN_LINK_TEXT">
+            <value>
+                <option name="FOREGROUND" value="3ad900" />
+                <option name="FONT_TYPE" value="2" />
+                <option name="EFFECT_COLOR" value="3794ff" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
         <option name="MATCHED_BRACE_ATTRIBUTES">
             <value>
                 <option name="BACKGROUND" value="5a5a5a" />
