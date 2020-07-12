@@ -6,7 +6,7 @@
     "street address": "21 2nd Street",
     "city": "New York",
     "state": "NY",
-    "postal code": "10021"
+    "postal code": "10021\ns@"
   },
   "phone numbers": [
     {
@@ -20,5 +20,6 @@
   ],
   "sex": {
     "type": "male"
-  }
+  },
+  "desc": "C-style\r\n and unicode\u0021"
 }

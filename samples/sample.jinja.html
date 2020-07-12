@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <title>Img Align Attribute</title>
+  </head>
+
+  <body>
+    <title>{% block title %}{% endblock %}</title>
+    <ul>
+      {% for user in users %}
+      <li><a href="{{ user.url }}">{{ user.username }}</a></li>
+      {% endfor %}
+    </ul>
+
+    {%- for item in item_list %}
+    {{ item }}{% if not loop.last %},{% endif %}
+    {%- endfor %}
+    <img src="image.png" alt="Image" width="100" />
+  
+    <form>
+      <label for="username">Username:</label>
+      <input type="text" name="username" id="username">
+      <label for="password">Password:</label>
+      <input type="password" name="password" id="password">
+      <input type="radio" name="gender" value="male">Male<br>
+      <input type="radio" name="gender" value="female">Female<br>
+      <input type="radio" name="gender" value="other">Other
+      <input list="Options">
+      <datalist id="Options">
+        <option value="Option1">
+        <option value="Option2">
+        <option value="Option3">
+      </datalist>
+      <input type="submit" value="Submit">
+      <input type="color">
+      <input type="checkbox" name="correct" value="correct">Correct
+    </form>
+
+  </body>
+
+</html>

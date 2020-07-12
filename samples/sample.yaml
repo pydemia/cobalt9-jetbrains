@@ -2,6 +2,7 @@ first name: John
 last name: Smith
 age: 25
 address:
+  # Test Comment
   street address: 21 2nd Street
   city: New York
   state: NY
@@ -13,3 +14,4 @@ phone numbers:
     number: 646 555-4567
 sex:
   type: male
+desc: "C-style\r\n and unicode\u0021"
