@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>org.pydemia.theme.cobalt9</id>
   <name>Cobalt9</name>
-  <version>1.1.6</version>
+  <version>1.2.0</version>
   <vendor email="pydemia@gmail.com" url="https://github.com/pydemia">Youngju Jaden Kim</vendor>
   <!-- Minimum and maximum build of IDE compatible with the plugin -->
   <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
@@ -13,8 +13,11 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      All notable changes to the "cobalt9" extension will be documented in this file.<br>
-      <em>Initial release for Cobalt9.</em>
+      <ul>
+        <li>Apply the revised Cobalt9 deep navy palette.</li>
+        <li>Separate class, type, function declaration, call, and field colors.</li>
+        <li>Use off-white for built-ins and parameters; magenta for constants.</li>
+      </ul>
     ]]>
   </change-notes>
 

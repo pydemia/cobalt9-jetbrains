@@ -4,15 +4,15 @@
   "author": "Youngju Jaden Kim",
   "editorScheme": "/Cobalt9.xml",
   "colors": {
-    "basicBackground": "#072539",
-    "secondaryBackground": "#19364b",
-    "borderColor": "#072539",
-    "hue1": "#0d3a58",
-    "hue2": "#25425c",
-    "hue3": "#80808059",
-    "contrast": "#FF9D00",
-    "contrastHue1": "#a31515",
-    "textColor": "#ffffff"
+    "basicBackground": "#071B2C",
+    "secondaryBackground": "#102B42",
+    "borderColor": "#2A4960",
+    "hue1": "#17364E",
+    "hue2": "#204C6A",
+    "hue3": "#82A3B859",
+    "contrast": "#F7A865",
+    "contrastHue1": "#F4CF66",
+    "textColor": "#DAEAF3"
   },
   "ui": {
     "*": {
@@ -27,7 +27,7 @@
       "hoverBorderColor": "hue2"
     },
     "CompletionPopup": {
-      "selectionBackground": "basicBackground"
+      "selectionBackground": "hue2"
     },
     "Borders": {
       "ContrastBorderColor": "borderColor",
@@ -40,6 +40,7 @@
       "startBorderColor": "hue3",
       "endBorderColor": "hue2",
       "default": {
+        "foreground": "basicBackground",
         "startBackground": "contrast",
         "endBackground": "contrastHue1",
         "startBorderColor": "contrast",
@@ -101,7 +102,7 @@
     },
     "PasswordField": {
       "background": "secondaryBackground",
-      "selectionBackground": "secondaryBackground"
+      "selectionBackground": "hue2"
     },
     "Popup": {
       "Toolbar.background": "basicBackground"
@@ -170,12 +171,12 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "#19364b",
-      "Checkbox.Background.Default": "#19364b",
-      "Checkbox.Background.Selected.Dark": "#FF9D00",
-      "Checkbox.Background.Selected": "#FF9D00",
-      "Checkbox.Foreground.Selected.Dark": "#072539",
-      "Checkbox.Foreground.Selected": "#072539"
+      "Checkbox.Background.Default.Dark": "#102B42",
+      "Checkbox.Background.Default": "#102B42",
+      "Checkbox.Background.Selected.Dark": "#F7A865",
+      "Checkbox.Background.Selected": "#F7A865",
+      "Checkbox.Foreground.Selected.Dark": "#071B2C",
+      "Checkbox.Foreground.Selected": "#071B2C"
     }
   }
 }
