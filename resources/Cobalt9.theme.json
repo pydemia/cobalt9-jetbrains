@@ -5,14 +5,14 @@
   "editorScheme": "/Cobalt9.xml",
   "colors": {
     "basicBackground": "#072539",
-    "secondaryBackground": "#102E48",
-    "borderColor": "#2C506D",
-    "hue1": "#173C57",
-    "hue2": "#205276",
-    "hue3": "#7797B359",
-    "contrast": "#FFB454",
-    "contrastHue1": "#FFE55C",
-    "textColor": "#F2F7FF"
+    "secondaryBackground": "#19364b",
+    "borderColor": "#072539",
+    "hue1": "#0d3a58",
+    "hue2": "#25425c",
+    "hue3": "#80808059",
+    "contrast": "#FF9D00",
+    "contrastHue1": "#a31515",
+    "textColor": "#ffffff"
   },
   "ui": {
     "*": {
@@ -171,10 +171,10 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "#102E48",
-      "Checkbox.Background.Default": "#102E48",
-      "Checkbox.Background.Selected.Dark": "#FFB454",
-      "Checkbox.Background.Selected": "#FFB454",
+      "Checkbox.Background.Default.Dark": "#19364b",
+      "Checkbox.Background.Default": "#19364b",
+      "Checkbox.Background.Selected.Dark": "#FF9D00",
+      "Checkbox.Background.Selected": "#FF9D00",
       "Checkbox.Foreground.Selected.Dark": "#072539",
       "Checkbox.Foreground.Selected": "#072539"
     }
