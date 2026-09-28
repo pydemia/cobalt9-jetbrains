@@ -4,15 +4,15 @@
   "author": "Youngju Jaden Kim",
   "editorScheme": "/Cobalt9.xml",
   "colors": {
-    "basicBackground": "#071B2C",
-    "secondaryBackground": "#102B42",
-    "borderColor": "#2A4960",
-    "hue1": "#17364E",
-    "hue2": "#204C6A",
-    "hue3": "#718FA359",
-    "contrast": "#B586F7",
-    "contrastHue1": "#FFE461",
-    "textColor": "#C3D5E1"
+    "basicBackground": "#072539",
+    "secondaryBackground": "#102E48",
+    "borderColor": "#2C506D",
+    "hue1": "#173C57",
+    "hue2": "#205276",
+    "hue3": "#7797B359",
+    "contrast": "#FFB454",
+    "contrastHue1": "#FFE55C",
+    "textColor": "#F2F7FF"
   },
   "ui": {
     "*": {
@@ -171,12 +171,12 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "#102B42",
-      "Checkbox.Background.Default": "#102B42",
-      "Checkbox.Background.Selected.Dark": "#B586F7",
-      "Checkbox.Background.Selected": "#B586F7",
-      "Checkbox.Foreground.Selected.Dark": "#071B2C",
-      "Checkbox.Foreground.Selected": "#071B2C"
+      "Checkbox.Background.Default.Dark": "#102E48",
+      "Checkbox.Background.Default": "#102E48",
+      "Checkbox.Background.Selected.Dark": "#FFB454",
+      "Checkbox.Background.Selected": "#FFB454",
+      "Checkbox.Foreground.Selected.Dark": "#072539",
+      "Checkbox.Foreground.Selected": "#072539"
     }
   }
 }

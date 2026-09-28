@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>org.pydemia.theme.cobalt9</id>
   <name>Cobalt9</name>
-  <version>1.2.0</version>
+  <version>1.2.1</version>
   <vendor email="pydemia@gmail.com" url="https://github.com/pydemia">Youngju Jaden Kim</vendor>
   <!-- Minimum and maximum build of IDE compatible with the plugin -->
   <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
@@ -14,10 +14,9 @@
 
   <change-notes><![CDATA[
       <ul>
-        <li>Increase syntax hue and saturation differences on the deep navy background.</li>
-        <li>Separate Java class and method declarations from type references and calls.</li>
-        <li>Use amber and yellow for classes and types, pink for declarations, and blue for calls.</li>
-        <li>Use orange for statement keywords while retaining violet accents.</li>
+        <li>Restore the original Cobalt9 blue background and classic Cobalt syntax colors.</li>
+        <li>Use blue comments, orange keywords, green strings, gold class names, and pink constants.</li>
+        <li>Separate class and function declarations from type references and calls.</li>
       </ul>
     ]]>
   </change-notes>
