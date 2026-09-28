@@ -9,10 +9,10 @@
     "borderColor": "#2A4960",
     "hue1": "#17364E",
     "hue2": "#204C6A",
-    "hue3": "#82A3B859",
-    "contrast": "#F7A865",
-    "contrastHue1": "#F4CF66",
-    "textColor": "#DAEAF3"
+    "hue3": "#718FA359",
+    "contrast": "#B586F7",
+    "contrastHue1": "#FFE461",
+    "textColor": "#C3D5E1"
   },
   "ui": {
     "*": {
@@ -173,8 +173,8 @@
     "ColorPalette": {
       "Checkbox.Background.Default.Dark": "#102B42",
       "Checkbox.Background.Default": "#102B42",
-      "Checkbox.Background.Selected.Dark": "#F7A865",
-      "Checkbox.Background.Selected": "#F7A865",
+      "Checkbox.Background.Selected.Dark": "#B586F7",
+      "Checkbox.Background.Selected": "#B586F7",
       "Checkbox.Foreground.Selected.Dark": "#071B2C",
       "Checkbox.Foreground.Selected": "#071B2C"
     }

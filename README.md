@@ -1,29 +1,13 @@
-# Cobalt9 - IntelliJ
+# Cobalt9 for JetBrains IDEs
 
-
-A `Cobalt9` Theme for Jetbrain products.
-
+A deep navy color theme inspired by Cobalt2.
 
 ## Screenshots
 
-![Screenshot](https://plugins.jetbrains.com/files/14645/93-page/image46.png)
+### Java
 
-* Java
-![Java](https://raw.githubusercontent.com/pydemia/cobalt9-jetbrains/master/images/intellij_sample_java.png)
+![Cobalt9 Java syntax](https://raw.githubusercontent.com/pydemia/cobalt9-jetbrains/master/images/intellij_sample_java.png)
 
-* Python
-![Python](https://raw.githubusercontent.com/pydemia/cobalt9-jetbrains/master/images/intellij_sample_python.png)
+### JSON
 
-* Markdown
-![Markdown](https://raw.githubusercontent.com/pydemia/cobalt9-jetbrains/master/images/intellij_sample_markdown.png)
-
-* XML
-![XML](https://raw.githubusercontent.com/pydemia/cobalt9-jetbrains/master/images/intellij_sample_xml.png)
-
-* JSON
-![JSON](https://raw.githubusercontent.com/pydemia/cobalt9-jetbrains/master/images/intellij_sample_json.png)
-
-* YAML
-![YAML](https://raw.githubusercontent.com/pydemia/cobalt9-jetbrains/master/images/intellij_sample_yaml.png)
-
-and more...
+![Cobalt9 JSON syntax](https://raw.githubusercontent.com/pydemia/cobalt9-jetbrains/master/images/intellij_sample_json.png)
