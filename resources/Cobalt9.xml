@@ -3,7 +3,7 @@
         <property name="created">2020-07-03T00:34:56</property>
         <property name="ide">IntelliJ</property>
         <property name="ideVersion">2020.1.2.0.0</property>
-        <property name="modified">2026-09-28</property>
+        <property name="modified">2026-09-30</property>
         <property name="originalScheme">Cobalt9</property>
     </metaInfo>
     <colors>
@@ -161,7 +161,7 @@
         </option>
         <option name="COFFEESCRIPT.GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -209,13 +209,13 @@
         </option>
         <option name="COFFEESCRIPT.OBJECT_KEY">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
         <option name="COFFEESCRIPT.OPERATIONS">
             <value>
-                <option name="FOREGROUND" value="F8F8F8" />
+                <option name="FOREGROUND" value="B267E6" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -532,7 +532,7 @@
         </option>
         <option name="DEFAULT_COMMA">
             <value>
-                <option name="FOREGROUND" value="F4ABA4" />
+                <option name="FOREGROUND" value="F8F8F8" />
             </value>
         </option>
         <option name="DEFAULT_CONSTANT">
@@ -566,7 +566,7 @@
         </option>
         <option name="DEFAULT_DOT">
             <value>
-                <option name="FOREGROUND" value="F4ABA4" />
+                <option name="FOREGROUND" value="F8F8F8" />
             </value>
         </option>
         <option name="DEFAULT_ENTITY">
@@ -588,19 +588,19 @@
         </option>
         <option name="DEFAULT_GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
         <option name="DEFAULT_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
         <option name="DEFAULT_INSTANCE_FIELD">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -656,12 +656,12 @@
         </option>
         <option name="DEFAULT_OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="F8F8F8" />
+                <option name="FOREGROUND" value="B267E6" />
             </value>
         </option>
         <option name="DEFAULT_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="F4ABA4" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -674,25 +674,25 @@
         </option>
         <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="FFDBC7" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
         <option name="DEFAULT_REASSIGNED_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="EC5F67" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="EFFECT_COLOR" value="7797B3" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
         <option name="DEFAULT_SEMICOLON">
             <value>
-                <option name="FOREGROUND" value="F4ABA4" />
+                <option name="FOREGROUND" value="F8F8F8" />
             </value>
         </option>
         <option name="DEFAULT_STATIC_FIELD">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -881,7 +881,7 @@
         </option>
         <option name="GO_BUILTIN_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -923,7 +923,7 @@
         </option>
         <option name="GO_METHOD_RECEIVER">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -1037,7 +1037,7 @@
         </option>
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="FDA5FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
             </value>
         </option>
         <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
@@ -1061,7 +1061,7 @@
         </option>
         <option name="INSTANCE_FIELD_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="FDA5FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -1073,7 +1073,7 @@
         </option>
         <option name="IVAR">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -1132,7 +1132,7 @@
         </option>
         <option name="JAVA_OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="F8F8F8" />
+                <option name="FOREGROUND" value="B267E6" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -1148,7 +1148,7 @@
         </option>
         <option name="JS.GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -1160,13 +1160,13 @@
         </option>
         <option name="JS.LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
         <option name="JS.PARAMETER">
             <value>
-                <option name="FOREGROUND" value="F4ABA4" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -1195,13 +1195,13 @@
         </option>
         <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
             <value>
-                <option name="FOREGROUND" value="FA4789" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
         <option name="KOTLIN_MUTABLE_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="FFDBC7" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
                 <option name="EFFECT_COLOR" value="FB94FF" />
                 <option name="EFFECT_TYPE" value="1" />
@@ -1222,13 +1222,13 @@
         </option>
         <option name="LESS_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
         <option name="LOCAL_VARIABLE_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
             </value>
         </option>
         <option name="LOG_ERROR_OUTPUT">
@@ -1330,13 +1330,13 @@
         </option>
         <option name="OC.EXTERN_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
         <option name="OC.GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -1354,7 +1354,7 @@
         </option>
         <option name="OC.LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -1377,13 +1377,13 @@
         </option>
         <option name="OC.PARAMETER">
             <value>
-                <option name="FOREGROUND" value="F4ABA4" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="OC.PROPERTY">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -1404,19 +1404,19 @@
         </option>
         <option name="PARAMETER_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="F4ABA4" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="PHP_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="F4ABA4" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="PHP_VAR">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -1461,7 +1461,7 @@
         </option>
         <option name="PUPPET_OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="F8F8F8" />
+                <option name="FOREGROUND" value="B267E6" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -1482,7 +1482,7 @@
         </option>
         <option name="PUPPET_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -1530,7 +1530,7 @@
         </option>
         <option name="PY.OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="F8F8F8" />
+                <option name="FOREGROUND" value="B267E6" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -1548,7 +1548,7 @@
         </option>
         <option name="PY.SELF_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="66D9EF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -1646,7 +1646,7 @@
         </option>
         <option name="RUBY_CVAR">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -1662,7 +1662,7 @@
         </option>
         <option name="RUBY_GVAR">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -1684,7 +1684,7 @@
         </option>
         <option name="RUBY_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -1700,7 +1700,7 @@
         </option>
         <option name="RUBY_IVAR">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -1718,7 +1718,7 @@
         </option>
         <option name="RUBY_LOCAL_VAR_ID">
             <value>
-                <option name="FOREGROUND" value="FB94FF" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -1735,7 +1735,7 @@
         </option>
         <option name="RUBY_OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="F8F8F8" />
+                <option name="FOREGROUND" value="B267E6" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -1747,7 +1747,7 @@
         </option>
         <option name="RUBY_PARAMETER_ID">
             <value>
-                <option name="FOREGROUND" value="F4ABA4" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -1855,7 +1855,7 @@
         </option>
         <option name="SASS_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="F4ABA4" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -1954,7 +1954,7 @@
         <option name="SPY-JS.VALUE_HINT" baseAttributes="" />
         <option name="STATIC_FIELD_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="EAC6EC" />
+                <option name="FOREGROUND" value="FFFFFF" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
