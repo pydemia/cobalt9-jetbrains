@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>org.pydemia.theme.cobalt9</id>
   <name>Cobalt9</name>
-  <version>1.2.3</version>
+  <version>1.2.4</version>
   <vendor email="pydemia@gmail.com" url="https://github.com/pydemia">Youngju Jaden Kim</vendor>
   <!-- Minimum and maximum build of IDE compatible with the plugin -->
   <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
@@ -14,8 +14,9 @@
 
   <change-notes><![CDATA[
       <ul>
-        <li>Use white for variables, parameters, instance names, and properties.</li>
-        <li>Color operators purple while keeping punctuation near white.</li>
+        <li>Color Python parameter names and keyword argument names peach.</li>
+        <li>Lighten purple operators slightly.</li>
+        <li>Use distinct, less glaring yellows for types and function calls.</li>
       </ul>
     ]]>
   </change-notes>

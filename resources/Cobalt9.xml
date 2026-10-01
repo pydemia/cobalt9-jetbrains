@@ -3,7 +3,7 @@
         <property name="created">2020-07-03T00:34:56</property>
         <property name="ide">IntelliJ</property>
         <property name="ideVersion">2020.1.2.0.0</property>
-        <property name="modified">2026-09-30</property>
+        <property name="modified">2026-10-01</property>
         <property name="originalScheme">Cobalt9</property>
     </metaInfo>
     <colors>
@@ -48,7 +48,7 @@
         </option>
         <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="FFC600" />
+                <option name="FOREGROUND" value="E2B40D" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -92,7 +92,7 @@
         </option>
         <option name="CLASS_REFERENCE">
             <value>
-                <option name="FOREGROUND" value="FFDD00" />
+                <option name="FOREGROUND" value="E5CA48" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -215,7 +215,7 @@
         </option>
         <option name="COFFEESCRIPT.OPERATIONS">
             <value>
-                <option name="FOREGROUND" value="B267E6" />
+                <option name="FOREGROUND" value="BA76E9" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -349,7 +349,7 @@
         </option>
         <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="FFC600" />
+                <option name="FOREGROUND" value="E2B40D" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -367,7 +367,7 @@
         </option>
         <option name="CSS.FUNCTION">
             <value>
-                <option name="FOREGROUND" value="FFC600" />
+                <option name="FOREGROUND" value="E2B40D" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -576,7 +576,7 @@
         </option>
         <option name="DEFAULT_FUNCTION_CALL">
             <value>
-                <option name="FOREGROUND" value="FFC600" />
+                <option name="FOREGROUND" value="E2B40D" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -606,7 +606,7 @@
         </option>
         <option name="DEFAULT_INSTANCE_METHOD">
             <value>
-                <option name="FOREGROUND" value="FFC600" />
+                <option name="FOREGROUND" value="E2B40D" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -656,7 +656,7 @@
         </option>
         <option name="DEFAULT_OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="B267E6" />
+                <option name="FOREGROUND" value="BA76E9" />
             </value>
         </option>
         <option name="DEFAULT_PARAMETER">
@@ -668,7 +668,7 @@
         <option name="DEFAULT_PARENTHS" baseAttributes="" />
         <option name="DEFAULT_PREDEFINED_SYMBOL">
             <value>
-                <option name="FOREGROUND" value="FFC600" />
+                <option name="FOREGROUND" value="E2B40D" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -698,7 +698,7 @@
         </option>
         <option name="DEFAULT_STATIC_METHOD">
             <value>
-                <option name="FOREGROUND" value="FFC600" />
+                <option name="FOREGROUND" value="E2B40D" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -751,7 +751,7 @@
         </option>
         <option name="DJANGO_FILTER">
             <value>
-                <option name="FOREGROUND" value="FFC600" />
+                <option name="FOREGROUND" value="E2B40D" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -893,7 +893,7 @@
         </option>
         <option name="GO_EXPORTED_FUNCTION_CALL">
             <value>
-                <option name="FOREGROUND" value="FFC600" />
+                <option name="FOREGROUND" value="E2B40D" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -917,7 +917,7 @@
         </option>
         <option name="GO_LOCAL_FUNCTION_CALL">
             <value>
-                <option name="FOREGROUND" value="FFC600" />
+                <option name="FOREGROUND" value="E2B40D" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -1132,7 +1132,7 @@
         </option>
         <option name="JAVA_OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="B267E6" />
+                <option name="FOREGROUND" value="BA76E9" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -1189,7 +1189,7 @@
         </option>
         <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
             <value>
-                <option name="FOREGROUND" value="FFC600" />
+                <option name="FOREGROUND" value="E2B40D" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -1209,7 +1209,7 @@
         </option>
         <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
             <value>
-                <option name="FOREGROUND" value="FFC600" />
+                <option name="FOREGROUND" value="E2B40D" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
@@ -1290,7 +1290,7 @@
         </option>
         <option name="METHOD_CALL_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="FFC600" />
+                <option name="FOREGROUND" value="E2B40D" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -1422,7 +1422,7 @@
         </option>
         <option name="PROTOCOL_REFERENCE">
             <value>
-                <option name="FOREGROUND" value="FFDD00" />
+                <option name="FOREGROUND" value="E5CA48" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -1439,7 +1439,7 @@
         </option>
         <option name="PUPPET_CLASS">
             <value>
-                <option name="FOREGROUND" value="FFDD00" />
+                <option name="FOREGROUND" value="E5CA48" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -1461,7 +1461,7 @@
         </option>
         <option name="PUPPET_OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="B267E6" />
+                <option name="FOREGROUND" value="BA76E9" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -1516,7 +1516,11 @@
             </value>
         </option>
         <option name="PY.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-        <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
+        <option name="PY.KEYWORD_ARGUMENT">
+            <value>
+                <option name="FOREGROUND" value="F4ABA4" />
+            </value>
+        </option>
         <option name="PY.LINE_COMMENT">
             <value>
                 <option name="FOREGROUND" value="0088FF" />
@@ -1530,8 +1534,14 @@
         </option>
         <option name="PY.OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="B267E6" />
+                <option name="FOREGROUND" value="BA76E9" />
                 <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="PY.PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="F4ABA4" />
+                <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="PY.PREDEFINED_DEFINITION">
@@ -1640,7 +1650,7 @@
         </option>
         <option name="RUBY_CONSTANT_DECLARATION">
             <value>
-                <option name="FOREGROUND" value="FFDD00" />
+                <option name="FOREGROUND" value="E5CA48" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -1735,13 +1745,13 @@
         </option>
         <option name="RUBY_OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="B267E6" />
+                <option name="FOREGROUND" value="BA76E9" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
         <option name="RUBY_PARAMDEF_CALL">
             <value>
-                <option name="FOREGROUND" value="FFC600" />
+                <option name="FOREGROUND" value="E2B40D" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -1758,7 +1768,7 @@
         </option>
         <option name="RUBY_SPECIFIC_CALL">
             <value>
-                <option name="FOREGROUND" value="FFC600" />
+                <option name="FOREGROUND" value="E2B40D" />
             </value>
         </option>
         <option name="RUBY_STRING">
@@ -1797,7 +1807,7 @@
         </option>
         <option name="SASS_FUNCTION">
             <value>
-                <option name="FOREGROUND" value="FFC600" />
+                <option name="FOREGROUND" value="E2B40D" />
             </value>
         </option>
         <option name="SASS_IDENTIFIER">
